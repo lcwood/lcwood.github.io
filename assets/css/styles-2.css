@@ -412,8 +412,8 @@ a.btn:hover {
 .skills-section .subtitle {
   font-size: 18px;
   color: #8a8a8a;
-  margin-top: 0;
-  margin-bottom: 45px;
+  margin-top: 5px;
+  margin-bottom: 5px;
   font-weight: 300;
 }
 .skills-section .top-skills {
